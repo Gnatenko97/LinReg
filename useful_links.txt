@@ -1,0 +1,2 @@
+https://discuss.pytorch.org/t/how-to-concatenate-layers-in-pytorch-similar-to-tf-keras-layers-concatenate/33736/7
+concat 2 paralel layers
